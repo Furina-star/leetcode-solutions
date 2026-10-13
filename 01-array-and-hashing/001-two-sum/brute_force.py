@@ -1,3 +1,9 @@
+"""
+Two Sum Problem - Brute Force Approach
+Time complexity: O(n^2)
+Space complexity: O(1)
+"""
+
 class Solution(object):
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         for i in range(len(nums)):

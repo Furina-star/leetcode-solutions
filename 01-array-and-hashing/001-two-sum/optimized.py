@@ -1,3 +1,9 @@
+"""
+Two Sum Problem - Optimized Approach
+Time complexity: O(n)
+Space complexity: O(n)
+"""
+
 class Solution(object):
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         seen = {}

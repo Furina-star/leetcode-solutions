@@ -7,11 +7,12 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Problems Solved:** 1
+**Problems Solved:** 2
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | [View](01-array-and-hashing/001-two-sum/) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
 
 ## Repository Structure
 
@@ -19,6 +20,9 @@ Solutions are organized by topic, with each problem stored in its own directory.
 
 - `01-array-and-hashing/`
   - `001-two-sum/`
+    - `brute_force.py`
+    - `optimized.py`
+  - `217-contains-duplicate/`
     - `brute_force.py`
     - `optimized.py`
 
