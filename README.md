@@ -7,7 +7,7 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Problems Solved:** 2
+**Problems Solved:** 3
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
