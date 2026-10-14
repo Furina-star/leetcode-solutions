@@ -1,7 +1,7 @@
 """
 Valid Anagram - Brute Force Approach
 Time complexity: O(n^2)
-Space complexity: O(1)
+Space complexity: O(n)
 """
 
 class Solution:
