@@ -7,13 +7,14 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Problems Solved:** 3
+**Problems Solved:** 4
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | [View](01-array-and-hashing/001-two-sum/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array & Hashing | [View](01-array-and-hashing/242-valid-anagram/) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Array & Hashing | [View](01-array-and-hashing/383-ransom-note/) |
 ## Repository Structure
 
 Solutions are organized by topic, with each problem stored in its own directory.
@@ -26,6 +27,9 @@ Solutions are organized by topic, with each problem stored in its own directory.
     - `brute_force.py`
     - `optimized.py`
   - `242-valid-anagram/`
+    - `brute_force.py`
+    - `optimized.py`
+  - `383-ransom-note/`
     - `brute_force.py`
     - `optimized.py`
 
