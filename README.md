@@ -1,13 +1,15 @@
 # LeetCode Solutions
 
-A personal repository for practicing LeetCode problems and improving my understanding of data structures, algorithms, and problem-solving techniques using Python.
+A personal repository for practicing LeetCode algorithms and pandas exercises using Python.
 
 The repository tracks my progress, implementations, and improvements in algorithmic efficiency.
 
 ## Progress
 
 **Language:** Python 3  
-**Problems Solved:** 5
+**Algorithm Problems Solved:** 5
+
+Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
@@ -19,28 +21,47 @@ The repository tracks my progress, implementations, and improvements in algorith
 
 ## Repository Structure
 
-Solutions are organized by topic, with each problem stored in its own directory.
+| Directory | Contents |
+|---|---|
+| [01-array-and-hashing/](01-array-and-hashing/) | Array and hashing problems |
+| [02-two-pointer/](02-two-pointer/) | Two-pointer problems |
+| [pandas/](pandas/README.md) | Pandas exercises, organized by topic and day |
 
-- `01-array-and-hashing/`
-  - `001-two-sum/`
-    - `brute_force.py`
-    - `optimized.py`
-  - `217-contains-duplicate/`
-    - `brute_force.py`
-    - `optimized.py`
-  - `242-valid-anagram/`
-    - `brute_force.py`
-    - `optimized.py`
-  - `383-ransom-note/`
-    - `brute_force.py`
-    - `optimized.py`
-  - `387-first-unique-character/`
-    - `brute_force.py`
-    - `optimized.py`
+Algorithm problems use `<topic>/<problem-id>-<problem-name>/`, with `brute_force.py` and `optimized.py` where applicable. Each solution starts with a docstring containing the title, an `Algorithm:` line directly below it, and time and space complexity.
 
-Additional topics and solutions will be added progressively.
+Add new topics to this index and completed algorithm problems to the progress table. Keep pandas exercise details in its own README.
 
-Each solution file starts with a docstring containing the problem title and approach, an `Algorithm:` line directly below the title, and time and space complexity.
+## Setup
+
+From the repository root, create a virtual environment and install the shared dependencies:
+
+```sh
+python -m venv .venv
+```
+
+Activate it on Windows PowerShell:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+Or on macOS/Linux:
+
+```sh
+source .venv/bin/activate
+```
+
+```sh
+python -m pip install -r requirements.txt
+```
+
+[requirements.txt](requirements.txt) is shared by both tracks and currently lists `pandas`. Algorithm solutions use the Python standard library; pandas exercises use the installed pandas package. Add future third-party dependencies to this root file.
+
+Run a solution from the repository root, for example:
+
+```sh
+python 01-array-and-hashing/001-two-sum/optimized.py
+```
 
 ## Learning Approach
 
