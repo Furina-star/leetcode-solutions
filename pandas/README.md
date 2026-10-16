@@ -18,7 +18,7 @@ The solution files below are currently empty. Mark an exercise complete after im
 
 | # | Problem | Topic | Status | Solution |
 |---|---|---|---|---|
-| 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2877-create-a-dataframe-from-list/solution.py) |
+| 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2877-create-a-dataframe-from-list/solution.py) |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2878-get-the-size-of-dataframe/solution.py) |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2879-display-the-first-three-rows/solution.py) |
 | 2880 | [Select Data](https://leetcode.com/problems/select-data/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2880-select-data/solution.py) |
