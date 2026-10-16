@@ -1,5 +1,6 @@
 """
 Valid Anagram - Brute Force Approach
+Algorithm: Linear Search / Character Removal
 Time complexity: O(n^2)
 Space complexity: O(n)
 """

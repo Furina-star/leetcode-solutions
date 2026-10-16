@@ -1,8 +1,10 @@
 """
 Ransom Note - Optimized Approach
+Algorithm: Hash Map / Frequency Counting
 Time complexity: O(m + n), where m is the length of magazine and n is the length of ransomNote
 Space complexity: O(1)
 """
+
 from collections import Counter
 
 class Solution:

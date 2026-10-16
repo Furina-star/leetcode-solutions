@@ -1,5 +1,6 @@
 """
 Valid Anagram - Optimized Approach
+Algorithm: Hash Map / Frequency Counting
 Time complexity: O(n)
 Space complexity: O(1)
 """

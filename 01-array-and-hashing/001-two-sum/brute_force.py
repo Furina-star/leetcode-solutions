@@ -1,5 +1,6 @@
 """
 Two Sum Problem - Brute Force Approach
+Algorithm: Nested Loops
 Time complexity: O(n^2)
 Space complexity: O(1)
 """

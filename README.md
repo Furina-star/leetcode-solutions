@@ -7,7 +7,7 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Problems Solved:** 4
+**Problems Solved:** 5
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
@@ -15,6 +15,8 @@ The repository tracks my progress, implementations, and improvements in algorith
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array & Hashing | [View](01-array-and-hashing/242-valid-anagram/) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Array & Hashing | [View](01-array-and-hashing/383-ransom-note/) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Array & Hashing | [View](01-array-and-hashing/387-first-unique-character/) |
+
 ## Repository Structure
 
 Solutions are organized by topic, with each problem stored in its own directory.
@@ -32,8 +34,13 @@ Solutions are organized by topic, with each problem stored in its own directory.
   - `383-ransom-note/`
     - `brute_force.py`
     - `optimized.py`
+  - `387-first-unique-character/`
+    - `brute_force.py`
+    - `optimized.py`
 
 Additional topics and solutions will be added progressively.
+
+Each solution file starts with a docstring containing the problem title and approach, an `Algorithm:` line directly below the title, and time and space complexity.
 
 ## Learning Approach
 

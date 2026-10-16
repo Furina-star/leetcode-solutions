@@ -1,5 +1,6 @@
 """
 Ransom Note - Brute Force Approach
+Algorithm: Nested Loops
 Time complexity: O(m * n), where m is the length of magazine and n is the length of ransomNote
 Space complexity: O(m)
 """

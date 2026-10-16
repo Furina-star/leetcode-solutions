@@ -1,5 +1,6 @@
 """
 Two Sum Problem - Optimized Approach
+Algorithm: Hash Map / Complement Lookup
 Time complexity: O(n)
 Space complexity: O(n)
 """

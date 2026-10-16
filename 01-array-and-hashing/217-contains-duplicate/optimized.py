@@ -1,5 +1,6 @@
 """
 Contains Duplicate - Optimized Approach
+Algorithm: Hash Set / Duplicate Detection
 Time complexity: O(n)
 Space complexity: O(n)
 """
