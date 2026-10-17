@@ -7,13 +7,14 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 5
+**Algorithm Problems Solved:** 6
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | [View](01-array-and-hashing/001-two-sum/) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [View](02-two-pointer/125-valid-palindrome/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array & Hashing | [View](01-array-and-hashing/242-valid-anagram/) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Array & Hashing | [View](01-array-and-hashing/383-ransom-note/) |
