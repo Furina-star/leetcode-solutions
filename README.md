@@ -7,7 +7,7 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 7
+**Algorithm Problems Solved:** 8
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -18,6 +18,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | [View](02-two-pointer/167-two-sum-ii/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array & Hashing | [View](01-array-and-hashing/242-valid-anagram/) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | [View](02-two-pointer/344-reverse-string/) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Array & Hashing | [View](01-array-and-hashing/383-ransom-note/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Array & Hashing | [View](01-array-and-hashing/387-first-unique-character/) |
 
