@@ -1,6 +1,6 @@
 """
 Reverse String - Optimized Approach
-Algorithm: Two-Pointer Technique
+Algorithm: Reverse Method
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
