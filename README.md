@@ -7,13 +7,14 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 9
+**Algorithm Problems Solved:** 10
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | [View](01-array-and-hashing/001-two-sum/) |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic Programming | [View](03-dynamic-programming/070-climbing-stairs/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [View](02-two-pointer/125-valid-palindrome/) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | [View](02-two-pointer/167-two-sum-ii/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
@@ -29,6 +30,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 |---|---|
 | [01-array-and-hashing/](01-array-and-hashing/) | Array and hashing problems |
 | [02-two-pointer/](02-two-pointer/) | Two-pointer problems |
+| [03-dynamic-programming/](03-dynamic-programming/) | Dynamic programming problems |
 | [pandas/](pandas/README.md) | Pandas exercises, organized by topic and day |
 
 Algorithm problems use `<topic>/<problem-id>-<problem-name>/`, with `brute_force.py` and `optimized.py` where applicable. Each solution starts with a docstring containing the title, an `Algorithm:` line directly below it, and time and space complexity.
