@@ -7,7 +7,7 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 11
+**Algorithm Problems Solved:** 12
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -17,6 +17,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic Programming | [View](03-dynamic-programming/070-climbing-stairs/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [View](02-two-pointer/125-valid-palindrome/) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | [View](02-two-pointer/167-two-sum-ii/) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Array & Hashing | [View](01-array-and-hashing/202-happy-number/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array & Hashing | [View](01-array-and-hashing/242-valid-anagram/) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Two Pointers | [View](02-two-pointer/283-move-zeroes/) |
