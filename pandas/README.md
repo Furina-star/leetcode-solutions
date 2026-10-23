@@ -14,7 +14,7 @@ Use the virtual environment and shared [requirements.txt](../requirements.txt) d
 
 All 15 exercises from the [LeetCode study plan](https://leetcode.com/studyplan/introduction-to-pandas/), stored in [01-introduction-to-pandas/](01-introduction-to-pandas/).
 
-**Exercises Completed:** 7 / 15
+**Exercises Completed:** 8 / 15
 
 Mark an exercise complete after implementing and checking its solution.
 
@@ -27,7 +27,7 @@ Mark an exercise complete after implementing and checking its solution.
 | 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2881-create-a-new-column/solution.py) |
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2882-drop-duplicate-rows/solution.py) |
 | 2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2883-drop-missing-data/solution.py) |
-| 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2884-modify-columns/solution.py) |
+| 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2884-modify-columns/solution.py) |
 | 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2885-rename-columns/solution.py) |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2886-change-data-type/solution.py) |
 | 2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2887-fill-missing-data/solution.py) |
