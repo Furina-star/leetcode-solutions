@@ -12,13 +12,13 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-15-2EA44F?style=flat" alt="Algorithm problems solved: 15"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-16-2EA44F?style=flat" alt="Algorithm problems solved: 16"></a>
 </p>
 
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 15
+**Algorithm Problems Solved:** 16
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -39,6 +39,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Array & Hashing | [View](01-array-and-hashing/383-ransom-note/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Array & Hashing | [View](01-array-and-hashing/387-first-unique-character/) |
 | 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | Medium | Array & Hashing | [View](01-array-and-hashing/565-array-nesting/) |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | Math | [View](05-math/2409-count-days-spent-together/) |
 
 ## Repository Structure
 
