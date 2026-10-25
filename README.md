@@ -12,13 +12,13 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-17-2EA44F?style=flat" alt="Algorithm problems solved: 17"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-18-2EA44F?style=flat" alt="Algorithm problems solved: 18"></a>
 </p>
 
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 17
+**Algorithm Problems Solved:** 18
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -40,6 +40,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Array & Hashing | [View](01-array-and-hashing/383-ransom-note/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Array & Hashing | [View](01-array-and-hashing/387-first-unique-character/) |
 | 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | Medium | Array & Hashing | [View](01-array-and-hashing/565-array-nesting/) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | Graphs | [View](06-graphs/1254-number-of-closed-islands/) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | Math | [View](05-math/2409-count-days-spent-together/) |
 
 ## Repository Structure
@@ -51,6 +52,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | [03-dynamic-programming/](03-dynamic-programming/) | Dynamic programming problems |
 | [04-linked-list/](04-linked-list/) | Linked list problems |
 | [05-math/](05-math/) | Math problems |
+| [06-graphs/](06-graphs/) | Graph problems |
 | [pandas/](pandas/README.md) | Pandas exercises, organized by topic and day |
 
 Algorithm problems use `<topic>/<problem-id>-<problem-name>/`, with `brute_force.py` and `optimized.py` where applicable. Each solution starts with a docstring containing the title, an `Algorithm:` line directly below it, and time and space complexity.
