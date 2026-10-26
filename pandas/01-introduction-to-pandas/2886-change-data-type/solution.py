@@ -1,6 +1,6 @@
 """
 Change Data Type
-Algorithm:
+Algorithm: Vectorized Data Type Conversion
 Time Complexity: O(n)
 Space Complexity: O(n)
 """
