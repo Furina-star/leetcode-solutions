@@ -12,13 +12,13 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-18-2EA44F?style=flat" alt="Algorithm problems solved: 18"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-19-2EA44F?style=flat" alt="Algorithm problems solved: 19"></a>
 </p>
 
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 18
+**Algorithm Problems Solved:** 19
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -42,6 +42,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | Medium | Array & Hashing | [View](01-array-and-hashing/565-array-nesting/) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | Graphs | [View](06-graphs/1254-number-of-closed-islands/) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | Math | [View](05-math/2409-count-days-spent-together/) |
+| 3619 | [Count Islands with Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | Graphs | [View](06-graphs/3619-count-islands-with-total-value-divisble-by-k/) |
 
 ## Repository Structure
 
