@@ -14,7 +14,7 @@ Use the virtual environment and shared [requirements.txt](../requirements.txt) d
 
 All 15 exercises from the [LeetCode study plan](https://leetcode.com/studyplan/introduction-to-pandas/), stored in [01-introduction-to-pandas/](01-introduction-to-pandas/).
 
-**Exercises Completed:** 11 / 15
+**Exercises Completed:** 12 / 15
 
 Mark an exercise complete after implementing and checking its solution.
 
@@ -31,7 +31,7 @@ Mark an exercise complete after implementing and checking its solution.
 | 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2885-rename-columns/solution.py) |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2886-change-data-type/solution.py) |
 | 2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2887-fill-missing-data/solution.py) |
-| 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2888-reshape-data-concatenate/solution.py) |
+| 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | Introduction to Pandas | Completed | [View](01-introduction-to-pandas/2888-reshape-data-concatenate/solution.py) |
 | 2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2889-reshape-data-pivot/solution.py) |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2890-reshape-data-melt/solution.py) |
 | 2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/) | Introduction to Pandas | Planned | [View](01-introduction-to-pandas/2891-method-chaining/solution.py) |
