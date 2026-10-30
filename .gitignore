@@ -4,3 +4,4 @@ __pycache__/
 venv/
 .idea/
 .pytest_cache/
+.complexipy_cache
