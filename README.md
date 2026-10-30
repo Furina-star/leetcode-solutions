@@ -18,45 +18,46 @@ The repository tracks my progress, implementations, and improvements in algorith
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 21
+**Algorithm Problems Solved:** 22
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
-| # | Problem | Difficulty | Topic | Solution |
-|---|---|---|---|---|
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | [View](01-array-and-hashing/001-two-sum/) |
-| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [View](05-math/009-palindrome-number/) |
-| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Dynamic Programming | [View](03-dynamic-programming/053-maximum-subarray/) |
-| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic Programming | [View](03-dynamic-programming/070-climbing-stairs/) |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array & Hashing | [View](01-array-and-hashing/121-best-time-to-buy-and-sell-stock/) |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [View](02-two-pointer/125-valid-palindrome/) |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Linked List | [View](04-linked-list/141-linked-list-cycle/) |
-| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | [View](02-two-pointer/167-two-sum-ii/) |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Array & Hashing | [View](01-array-and-hashing/202-happy-number/) |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array & Hashing | [View](01-array-and-hashing/217-contains-duplicate/) |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array & Hashing | [View](01-array-and-hashing/242-valid-anagram/) |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Two Pointers | [View](02-two-pointer/283-move-zeroes/) |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | [View](02-two-pointer/344-reverse-string/) |
-| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Array & Hashing | [View](01-array-and-hashing/383-ransom-note/) |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Array & Hashing | [View](01-array-and-hashing/387-first-unique-character/) |
-| 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | Medium | Array & Hashing | [View](01-array-and-hashing/565-array-nesting/) |
-| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Math | [View](05-math/1071-greatest-common-divisor-of-strings/) |
-| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | Graphs | [View](06-graphs/1254-number-of-closed-islands/) |
-| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | Two Pointers | [View](02-two-pointer/1768-merge-strings-alternately/) |
-| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | Math | [View](05-math/2409-count-days-spent-together/) |
-| 3619 | [Count Islands with Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | Graphs | [View](06-graphs/3619-count-islands-with-total-value-divisble-by-k/) |
+| #    | Problem                                                                                                                       | Difficulty | Topic               | Solution                                                                    |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------- | --------------------------------------------------------------------------- |
+| 001  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                             | Easy       | Array & Hashing     | [View](01-array-and-hashing/001-two-sum/)                                   |
+| 009  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                         | Easy       | Math                | [View](05-math/009-palindrome-number/)                                      |
+| 053  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                           | Medium     | Dynamic Programming | [View](03-dynamic-programming/053-maximum-subarray/)                        |
+| 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                             | Easy       | Dynamic Programming | [View](03-dynamic-programming/070-climbing-stairs/)                         |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                             | Easy       | Array & Hashing     | [View](01-array-and-hashing/121-best-time-to-buy-and-sell-stock/)           |
+| 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                           | Easy       | Two Pointers        | [View](02-two-pointer/125-valid-palindrome/)                                |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                         | Easy       | Linked List         | [View](04-linked-list/141-linked-list-cycle/)                               |
+| 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                         | Medium     | Two Pointers        | [View](02-two-pointer/167-two-sum-ii/)                                      |
+| 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                   | Easy       | Array & Hashing     | [View](01-array-and-hashing/202-happy-number/)                              |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                       | Easy       | Array & Hashing     | [View](01-array-and-hashing/217-contains-duplicate/)                        |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                 | Easy       | Array & Hashing     | [View](01-array-and-hashing/242-valid-anagram/)                             |
+| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | Easy       | Two Pointers        | [View](02-two-pointer/283-move-zeroes/)                                     |
+| 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                               | Easy       | Two Pointers        | [View](02-two-pointer/344-reverse-string/)                                  |
+| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                     | Easy       | Array & Hashing     | [View](01-array-and-hashing/383-ransom-note/)                               |
+| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                       | Easy       | Array & Hashing     | [View](01-array-and-hashing/387-first-unique-character/)                    |
+| 565  | [Array Nesting](https://leetcode.com/problems/array-nesting/)                                                                 | Medium     | Array & Hashing     | [View](01-array-and-hashing/565-array-nesting/)                             |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                       | Easy       | Math                | [View](05-math/1071-greatest-common-divisor-of-strings/)                    |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)                                           | Medium     | Graphs              | [View](06-graphs/1254-number-of-closed-islands/)                            |
+| 1431 | [Kids with the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)           | Easy       | Array & Hashing     | [View](01-array-and-hashing/1431-kids-with-the-greatest-number-of-candies/) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                         | Easy       | Two Pointers        | [View](02-two-pointer/1768-merge-strings-alternately/)                      |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)                                         | Easy       | Math                | [View](05-math/2409-count-days-spent-together/)                             |
+| 3619 | [Count Islands with Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium     | Graphs              | [View](06-graphs/3619-count-islands-with-total-value-divisble-by-k/)        |
 
 ## Repository Structure
 
-| Directory | Contents |
-|---|---|
-| [01-array-and-hashing/](01-array-and-hashing/) | Array and hashing problems |
-| [02-two-pointer/](02-two-pointer/) | Two-pointer problems |
-| [03-dynamic-programming/](03-dynamic-programming/) | Dynamic programming problems |
-| [04-linked-list/](04-linked-list/) | Linked list problems |
-| [05-math/](05-math/) | Math problems |
-| [06-graphs/](06-graphs/) | Graph problems |
-| [pandas/](pandas/README.md) | Pandas exercises, organized by topic and day |
+| Directory                                          | Contents                                     |
+| -------------------------------------------------- | -------------------------------------------- |
+| [01-array-and-hashing/](01-array-and-hashing/)     | Array and hashing problems                   |
+| [02-two-pointer/](02-two-pointer/)                 | Two-pointer problems                         |
+| [03-dynamic-programming/](03-dynamic-programming/) | Dynamic programming problems                 |
+| [04-linked-list/](04-linked-list/)                 | Linked list problems                         |
+| [05-math/](05-math/)                               | Math problems                                |
+| [06-graphs/](06-graphs/)                           | Graph problems                               |
+| [pandas/](pandas/README.md)                        | Pandas exercises, organized by topic and day |
 
 Algorithm problems use `<topic>/<problem-id>-<problem-name>/`, with `brute_force.py` and `optimized.py` where applicable. Each solution starts with a docstring containing the title, an `Algorithm:` line directly below it, and time and space complexity.
 
