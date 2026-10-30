@@ -1,0 +1,12 @@
+# Maximum allowed cognitive complexity per function
+max-complexity-allowed = 15
+
+[lsp]
+# Display complexity scores for every function
+inlay-hints = "always"
+
+# Don't display additional per-line scores
+per-line-hints = false
+
+# Warn when a function exceeds the threshold
+diagnostics = true
