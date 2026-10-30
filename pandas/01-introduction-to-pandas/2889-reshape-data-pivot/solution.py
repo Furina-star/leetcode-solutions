@@ -1,4 +1,3 @@
-
 """
 Reshape Data: Pivot - Optimized Approach
 Algorithm: DataFrame Pivoting (Long-to-Wide Reshaping)
@@ -7,6 +6,7 @@ Space Complexity: O(n + m*c)
 """
 
 import pandas as pd
+
 
 def pivotTable(weather: pd.DataFrame) -> pd.DataFrame:
     return weather.pivot(
