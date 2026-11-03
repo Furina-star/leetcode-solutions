@@ -12,13 +12,13 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-23-2EA44F?style=flat" alt="Algorithm problems solved: 23"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-24-2EA44F?style=flat" alt="Algorithm problems solved: 24"></a>
 </p>
 
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 23
+**Algorithm Problems Solved:** 24
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -47,6 +47,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                         | Easy       | Two Pointers        | [View](02-two-pointer/1768-merge-strings-alternately.py)                      |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)                                         | Easy       | Math                | [View](05-math/2409-count-days-spent-together.py)                             |
 | 3619 | [Count Islands with Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium     | Graphs              | [View](06-graphs/3619-count-islands-with-total-value-divisble-by-k.py)        |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)         | Easy       | Math                | [View](05-math/3736-minimum-moves-to-equal-array-elements-iii.py)             |
 
 ## Repository Structure
 
