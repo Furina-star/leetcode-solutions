@@ -12,13 +12,13 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-24-2EA44F?style=flat" alt="Algorithm problems solved: 24"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-25-2EA44F?style=flat" alt="Algorithm problems solved: 25"></a>
 </p>
 
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 24
+**Algorithm Problems Solved:** 25
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -37,6 +37,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                 | Easy       | Array & Hashing     | [View](01-array-and-hashing/242-valid-anagram.py)                             |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | Easy       | Two Pointers        | [View](02-two-pointer/283-move-zeroes.py)                                     |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                               | Easy       | Two Pointers        | [View](02-two-pointer/344-reverse-string.py)                                  |
+| 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                       | Easy       | Two Pointers        | [View](02-two-pointer/345-reverse-vowels-of-a-string.py)                      |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                     | Easy       | Array & Hashing     | [View](01-array-and-hashing/383-ransom-note.py)                               |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                       | Easy       | Array & Hashing     | [View](01-array-and-hashing/387-first-unique-character.py)                    |
 | 565  | [Array Nesting](https://leetcode.com/problems/array-nesting/)                                                                 | Medium     | Array & Hashing     | [View](01-array-and-hashing/565-array-nesting.py)                             |

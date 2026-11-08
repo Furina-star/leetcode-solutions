@@ -5,6 +5,7 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 """
 
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         left = 0
@@ -24,12 +25,14 @@ class Solution:
 
         return True
 
+
 def main():
     s = "race a car"
 
     solution = Solution()
     result = solution.isPalindrome(s)
     print(result)
+
 
 if __name__ == "__main__":
     main()
