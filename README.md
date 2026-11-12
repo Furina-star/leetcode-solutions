@@ -12,7 +12,7 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-25-2EA44F?style=flat" alt="Algorithm problems solved: 25"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-26-2EA44F?style=flat" alt="Algorithm problems solved: 26"></a>
 </p>
 
 ## Progress
