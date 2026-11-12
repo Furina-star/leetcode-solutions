@@ -12,13 +12,13 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-26-2EA44F?style=flat" alt="Algorithm problems solved: 26"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-27-2EA44F?style=flat" alt="Algorithm problems solved: 27"></a>
 </p>
 
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 26
+**Algorithm Problems Solved:** 27
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -46,6 +46,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)                                           | Medium     | Graphs              | [View](06-graphs/1254-number-of-closed-islands.py)                            |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)             | Easy       | Math                | [View](05-math/1295-find-numbers-with-even-number-of-digits.py)               |
 | 1431 | [Kids with the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)           | Easy       | Array & Hashing     | [View](01-array-and-hashing/1431-kids-with-the-greatest-number-of-candies.py) |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                             | Easy       | Array & Hashing     | [View](01-array-and-hashing/1672-richest-customer-wealth.py)                  |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                         | Easy       | Two Pointers        | [View](02-two-pointer/1768-merge-strings-alternately.py)                      |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)                                         | Easy       | Math                | [View](05-math/2409-count-days-spent-together.py)                             |
 | 3619 | [Count Islands with Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium     | Graphs              | [View](06-graphs/3619-count-islands-with-total-value-divisble-by-k.py)        |
