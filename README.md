@@ -12,13 +12,13 @@ The repository tracks my progress, implementations, and improvements in algorith
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python 3"></a>
   <a href="pandas/README.md"><img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas exercises"></a>
-  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-27-2EA44F?style=flat" alt="Algorithm problems solved: 27"></a>
+  <a href="#progress"><img src="https://img.shields.io/badge/Algorithms%20Solved-28-2EA44F?style=flat" alt="Algorithm problems solved: 28"></a>
 </p>
 
 ## Progress
 
 **Language:** Python 3  
-**Algorithm Problems Solved:** 27
+**Algorithm Problems Solved:** 28
 
 Pandas exercises and their status are tracked in the [pandas README](pandas/README.md).
 
@@ -30,6 +30,7 @@ Pandas exercises and their status are tracked in the [pandas README](pandas/READ
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                             | Easy       | Dynamic Programming | [View](03-dynamic-programming/070-climbing-stairs.py)                         |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                             | Easy       | Array & Hashing     | [View](01-array-and-hashing/121-best-time-to-buy-and-sell-stock.py)           |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                           | Easy       | Two Pointers        | [View](02-two-pointer/125-valid-palindrome.py)                                |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                         | Medium     | Two Pointers        | [View](02-two-pointer/151-reverse-words-in-a-string.py)                       |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                         | Easy       | Linked List         | [View](04-linked-list/141-linked-list-cycle.py)                               |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                         | Medium     | Two Pointers        | [View](02-two-pointer/167-two-sum-ii.py)                                      |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                   | Easy       | Array & Hashing     | [View](01-array-and-hashing/202-happy-number.py)                              |
